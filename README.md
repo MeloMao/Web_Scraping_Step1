@@ -1,2 +1,2 @@
 # Web_Scraping_Test
-Just test.
+This is my first repertory for Web-scraping program when I'm learning it.
