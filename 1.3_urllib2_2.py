@@ -8,3 +8,5 @@ def download(url):
         html=None
     return html
 download('http://www.baidu.com')
+
+#this 'download' can used for every 'urllib2' web-scraping program. 
