@@ -1,5 +1,5 @@
 #coding=utf-8
-#This program can test te speed of RE(C),BS(Python) and lxml(C).
+#This program can test the speed of RE(C),BS(Python) and lxml(C).
 import time
 import urllib2
 import re
