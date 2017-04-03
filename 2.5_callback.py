@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+#this file will save a csv file
 import csv
 import re
 import urlparse
