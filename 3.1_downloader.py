@@ -1,4 +1,5 @@
 #coding=utf-8
+#This program don't back any datas.
 
 import urlparse
 import urllib2
