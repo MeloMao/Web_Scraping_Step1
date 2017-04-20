@@ -1,3 +1,4 @@
+#coding=utf-8
 import urllib2
 def download(url):
     print 'Downloading:',url
