@@ -1,3 +1,4 @@
+#coding=utf-8
 import urllib2
 import cookielib
 url = 'http://www.baidu.com'
